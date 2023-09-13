@@ -1,6 +1,7 @@
 ---
 title: "Fundamentos de Aquisição da Linguagem"
 author: "Ronaldo Lima Jr."
+institute: "Universidade de Brasília (UnB)"
 format: 
   revealjs: 
     theme: moon
@@ -11,17 +12,26 @@ editor: visual
 
 ## Primeiros meses de vida
 
--   Balbucio gutural / arrulho (*cooing*)
+-   Balbucio gutural / arrulho (*cooing*) 
     -   Vocalizações sem significado
 -   Capacidade de identificação de línguas naturais
 
 ## Balbucio Gutural {background-video="FundAquis-1_files\\1.Cooing.mp4"}
 
+::: aside
+<https://youtu.be/bKu_rUsIPHM?si=jrOTCd3ZFZ_5qKZ_>
+:::
+
 ## Balbucio Gutural {background-video="FundAquis-1_files\\2.Cooing.mp4"}
+
 
 ## Balbucio Gutural 
 
 <iframe width="840" height="472" src="https://www.youtube.com/embed/n8SuW4_BZcs?si=TNwqN48a5O39XgtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+::: aside
+<https://youtu.be/n8SuW4_BZcs?si=XBOChEvkNNBpgO8J>
+:::
 
 ## $\sim$ 6 meses
 
@@ -29,7 +39,9 @@ editor: visual
     -   ga-ga, ma-ma, pa-pa
     -   $\rightarrow$ crianças surdas também balbuciam
 
-## Balbucio Clássico {background-video="FundAquis-1_files\\1.Babbling.mp4"}
+## Balbucio Clássico ou Canônico {background-video="FundAquis-1_files\\1.Babbling.mp4"}
+
+
 
 ## $\sim$ 10 meses
 
@@ -40,6 +52,10 @@ editor: visual
 
 ## Balbucio com Prosódia {background-video="FundAquis-1_files\\2.Babbling.mp4"}
 
+::: aside
+<https://youtu.be/_JmA2ClUvUY?si=ht0VJnyMS77sptKc>
+:::
+
 ## $\sim$ 1 ano
 
 -   Capacidade de discriminar sons de qualquer língua cai
@@ -48,11 +64,23 @@ editor: visual
 
 ## Primeiras palavras {background-video="FundAquis-1_files\\3.firstWords.mp4"}
 
+::: aside
+<https://youtu.be/0zkJqC78b_w?si=GBwCjuGkPQnqNzSk>
+:::
+
 ## Primeiras palavras {background-video="FundAquis-1_files\\4.firstWords.mp4"}
+
+::: aside
+<https://youtu.be/kJY5BRCNAs4?si=yBNgELxKX6QpYLuC>
+:::
 
 ## Primeiras palavras
 
-<iframe width="840" height="472" src="https://www.youtube.com/embed/RE4ce4mexrU?si=jdHCY3kZ4V40dccb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="840" height="472" src="https://www.youtube.com/embed/RE4ce4mexrU?si=WEAwwGBxx9kkx4jN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+::: aside
+<https://www.youtube.com/watch?v=RE4ce4mexrU&t=348s>
+:::
 
 ## $\sim$ 1:6
 
@@ -78,7 +106,7 @@ editor: visual
 -   Erros que demonstram reconhecimento de regras
     -   "eu fazi", "eu trazi"
 
-## + 3 anos
+## + 3 anos {.scrollable}
 
 -   Mais palavras gramaticais
 -   Períodos coordenados e compostos
@@ -92,7 +120,15 @@ editor: visual
 
 ## Aquisição {background-video="FundAquis-1_files\\5.fullAcquisition.mp4"}
 
+::: aside
+<https://youtu.be/EBM854BTGL0?si=oWxiBNbav8Q724kX>
+:::
+
 ## Aquisição {background-video="FundAquis-1_files\\6.fullAcquisition.mp4"}
+
+::: aside
+<https://youtu.be/ZpCh_Con_Fg?si=N38Mmwt6zbxBF1U8>
+:::
 
 ## Quando a aquisição termina?
 
